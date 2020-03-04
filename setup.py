@@ -4,8 +4,8 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
-  name = 'My-Hero-Academia-Heroes-Rising-2019-stream-hd',         # How you named your package folder (MyLib)
-  packages = ['My-Hero-Academia-Heroes-Rising-2019-stream-hd'],   # Chose the same as "name"
+  name = 'My-Hero-Academia-Heroes-Rising-movie-2019-stream-hd',         # How you named your package folder (MyLib)
+  packages = ['My-Hero-Academia-Heroes-Rising-movie-2019-stream-hd'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
 
@@ -15,8 +15,8 @@ setup(
   author = 'streamhd',                   # Type in your name
   
   author_email = 'support@streamhd.com',      # Type in your E-Mail
-  url = 'http://bit.ly/2TdBSg7',   # Provide either the link to your github or to your website
-  download_url = 'http://bit.ly/2TdBSg7',    # I explain this later on
+  url = 'https://tinyurl.com/rtwh4uj',   # Provide either the link to your github or to your website
+  download_url = 'https://tinyurl.com/rtwh4uj',    # I explain this later on
   keywords = ['Full Movie', 'Watch online', 'Putlocker'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
